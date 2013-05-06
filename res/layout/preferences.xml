@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <PreferenceCategory
+     android:title="Required Options">
+ 
+
+    <EditTextPreference
+        android:key="port"
+        android:title="Port Number (Above 1200)"
+        android:summary="Default: 5555"
+        android:dialogTitle="Port Number"
+        android:inputType="number"
+    />
+    
+    
+    <EditTextPreference
+        android:key="passkey"
+        android:title="Server Key"
+        android:summary="Your Server Password"
+        android:dialogTitle="Server Key"
+    />
+    </PreferenceCategory>
+    
+  <PreferenceCategory
+      android:title="Other Options">
+    
+    
+    <EditTextPreference
+        android:key="welcomemessage"
+        android:title="Welcome Message"
+        android:summary="The Welcome message for your server"
+        android:dialogTitle="Welcome Message"
+    />
+     
+  </PreferenceCategory>
+
+  
+   
+</PreferenceScreen>

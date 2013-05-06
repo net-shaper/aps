@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="service_start">Start Server</string>
+    <string name="service_stop">Stop Server</string>
+    <string name="myip">Greetings User!</string>
+
+</resources>
