@@ -3,6 +3,15 @@ APS
 
 Android Phone Server
 
+The Android Phone Server is a means for conecting your Android device remotely to other devices using a wifi socket. 
+At the moment this allows you to check incoming messages, write sms messages, look at your contacts and more.
+It is currently in development so please bear with me as changes are made.
+
+A protocol list will be coming soon as well as other better documentation.
+
+
+
+
 Copyright 2013 Alec Gleason
 
 This file is part of Android Phone Server.
