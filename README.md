@@ -1,3 +1,7 @@
+NOTE
+===
+This version of the application is very inefficient. It is currently being rebuilt from the ground up to have more support and be a lot more efficient. 
+
 APS
 ===
 
